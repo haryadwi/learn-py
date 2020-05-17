@@ -6,6 +6,6 @@ print(panjang)
 print(lebar)
 print(nama)
 
+# multi task
 length, width, name = 100, 50, "jawir"
-
 print(length, width, name)
