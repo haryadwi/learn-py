@@ -5,3 +5,7 @@ nama = "jawir"  # tipe data string
 print(panjang)
 print(lebar)
 print(nama)
+
+length, width, name = 100, 50, "jawir"
+
+print(length, width, name)
